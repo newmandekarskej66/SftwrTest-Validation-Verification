@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MathFuncsDll.cpp
+     Creating library C:\Users\jacob\Source\Repos\SftwrTest-Validation-Verification\Software Testing\DynamicLibrary\Debug\MathFuncsDll.lib and object C:\Users\jacob\Source\Repos\SftwrTest-Validation-Verification\Software Testing\DynamicLibrary\Debug\MathFuncsDll.exp
+  MathFuncsDll.vcxproj -> C:\Users\jacob\Source\Repos\SftwrTest-Validation-Verification\Software Testing\DynamicLibrary\Debug\MathFuncsDll.dll
